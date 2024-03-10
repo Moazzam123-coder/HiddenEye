@@ -6,7 +6,7 @@
 from Defs.Languages import *
 from Defs.Actions import *
 from Defs.Configurations import *
-from Defs.Checks import *
+from Defs.Checks import **
 import multiprocessing
 import gettext
 import sys
